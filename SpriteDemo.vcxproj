@@ -96,6 +96,9 @@
     <ClInclude Include="DirectInput.h" />
     <ClInclude Include="GfxStats.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="TESTTEXT.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
